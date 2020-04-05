@@ -35,7 +35,7 @@ contact_img: /assets/images/singer.jpg
 
 # Pagination settings
 pagination:
-  enabled: true
+  enabled: false
   debug: false
   per_page: 12
   permalink: '/page/:num/'
